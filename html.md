@@ -5,6 +5,7 @@
 ## B 
 <b>&lt;b&gt;</b> Deixa o texto em negrito <b>&lt;/b&gt;</b>  
 <b>&lt;body&gt;</b> Corpo do site <b>&lt;/body&gt;</b>
+<b>&lt;br&gt;</b> Quebrar Linha<b>&lt;/br&gt;</b>
 
 ## C
 
@@ -18,6 +19,7 @@
 
 ## H
 <b>&lt;head&gt;</b> Cabeça Do Seu Site <b>&lt;/head&gt;</b>  
+<b>&lt;hr&gt;</b> Linha horizontal <b>&lt;//hr&gt;</b>
 
 ## I 
 
@@ -34,6 +36,7 @@
 ## O
 
 ## P
+<b>&lt;p&gt;</b> Paragrafo <b>&lt;/p&gt;</b>
 
 ## Q
 
